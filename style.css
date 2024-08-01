@@ -361,12 +361,14 @@ header .fa-bars {
     right: 3rem;
     font-size: 6rem;
     color: #eee;
+    justify-content: space-evenly;
 
 }
 
 .review .box-container .box .stars i {
     color: var(--pink);
     font-size: 2rem;
+    justify-content: space-evenly;
 }
 
 .review .box-container .box p {
